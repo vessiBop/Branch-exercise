@@ -9,7 +9,7 @@ function App() {
             <h1>Hello World</h1>
             <MyButton></MyButton>
             <p>This is some HTML before the footer</p>
-
+            <h1>HEADER ONE</h1>
 
             <Footer></Footer>
         </>
