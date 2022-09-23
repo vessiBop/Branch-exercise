@@ -9,6 +9,7 @@ function App() {
             <h1>Hello World</h1>
             <MyButton></MyButton>
             <p>This is some HTML before the footer</p>
+            <p>Some more HTML added on a git branch</p>
 
 
             <Footer></Footer>
